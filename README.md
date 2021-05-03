@@ -7,4 +7,5 @@ The web application a group of students and I developed during college is called
 - Scoretracker & Scorecard
 - Weather
 - User Profile
+
 My hope for this project is to implement a similar application for mobile users! 
